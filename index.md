@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Hola, soy Joel Perez Guerrero 👋
 ### Math & Data Analyst | Especialista en Sector Automotriz
 
