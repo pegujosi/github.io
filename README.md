@@ -1,4 +1,4 @@
-# Hola, soy [Joel Perez] 👋
+# Hola, soy Joel Perez Guerrero 👋
 ### Math & Data Analyst | Especialista en Sector Automotriz
 
 Analista de datos con enfoque matemático, especializado en la auditoría de procesos y optimización de KPIs industriales. Experto en transformar bases de datos complejas en dashboards accionables.
