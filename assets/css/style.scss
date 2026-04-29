@@ -47,3 +47,19 @@ p {
     padding-left: 0 !important;
   }
 }
+/* Maximizar el uso de pantalla en monitores grandes */
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 95% !important; /* Usa casi todo el ancho */
+    margin: 0 2.5% !important;
+  }
+
+  header {
+    width: 20% !important; /* Reduce el ancho de la columna del nombre */
+    padding-right: 30px;
+  }
+
+  section {
+    width: 75% !important; /* Da más espacio a tus proyectos */
+  }
+}
