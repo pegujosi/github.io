@@ -5,7 +5,7 @@ title: Home
 # Hi, I'm Joel Perez Guerrero 👋
 ### Math & Data Analyst | Automotive Industry Specialist
 
-Data Analyst with a strong mathematical background, I am a Mathematician with 10 years of experience as a Data Analyst. My career has primarily focused on the international automotive manufacturing industry, where I have specialized in ETL processes, data analysis, and delivering data-driven insights for many different business contexts.
+Data Analyst with a strong mathematical background, I am a Mathematician with seven years of experience as a Data Analyst. My career has primarily focused on the international automotive manufacturing industry, where I have specialized in ETL processes, data analysis, and delivering data-driven insights for many different business contexts.
 
 
 ---
@@ -42,4 +42,4 @@ Data Analyst with a strong mathematical background, I am a Mathematician with 10
 
 ## 📫 Contact
 * **LinkedIn:** [Joel Silverio Perez Guerrero](https://www.linkedin.com/in/joel-silverio-pérez-guerrero)
-* **Email:** silverio.guerrero.p@gmail.com
+* **Email:** pegujosi@outlook.com
